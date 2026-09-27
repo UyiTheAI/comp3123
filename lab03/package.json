@@ -1,0 +1,20 @@
+{
+    "name": "week03_lab",
+    "version": "1.0.0",
+    "description": "Sample Node.js server with some event",
+    "main": "main.js",
+    "scripts": {
+        "start": "nodemon ./main.js localhost 8088"
+    },
+    "keywords": [
+        "Node.js",
+        "web server",
+        "http",
+        "events"
+    ],
+    "author": "Omoruyi Oredia",
+    "license": "ISC",
+    "dependencies": {
+        "nodemon": "^3.0.1"
+    }
+}
